@@ -1,0 +1,11 @@
+{
+  "name": "record-interview-quiz",
+  "version": "1.0.0",
+  "description": "This repo is record what quiz when I interview to do.",
+  "main": "index.js",
+  "author": "Aion chiu",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  }
+}
